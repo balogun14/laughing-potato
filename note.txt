@@ -1,0 +1,8 @@
+***Operators 
+Operators: are used to perform operations on two or more operands to give a result 
+Arithimetic: +,-,/,*,%,
+Logical: &&,||
+Conditional/tenary: a <b? true:false
+Null Operators: ?,?? (null Coalescing ),!
+Assignment: =, +=,-=,*=,/=
+Comparison: <,>,>=,==,<=, !=
